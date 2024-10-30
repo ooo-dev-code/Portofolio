@@ -1,0 +1,4 @@
+bootstrap
+tailwindcss
+react-router-dom
+framer-motion
