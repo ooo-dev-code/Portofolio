@@ -4,6 +4,7 @@ import styled from 'styled-components'
 function Body() {
   return (
     <div>
+
         <Container className='container'>
             <Title_container className='Title_container'>
                 <Title className='Title'>
